@@ -1,5 +1,7 @@
 # Syntactically Guided Text Generation
 
+This repo is associated with the paper [Transformer-Based Neural Text Generation with Syntactic Guidance](https://arxiv.org/abs/2010.01737)
+
 ## Requirements
 
 - [Pytorch](https://pytorch.org/)
